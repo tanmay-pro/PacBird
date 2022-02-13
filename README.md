@@ -19,7 +19,7 @@
 * `mkdir build`
 * `cd build`
 * `cmake ..`
-* `make`
+* `make -j`
 * `./app`
 
 ## Controls of the Game
