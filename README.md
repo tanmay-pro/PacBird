@@ -2,8 +2,8 @@
 
 ## About the Application
 
-* The game is built in C++ using openGL platform.
-* The game is a top-down one with fixed frame dungeon rooms.
+* The game is built in C++ while using the openGL platform.
+* The game is by structure top-down along with fixed frame dungeon rooms.
 
 ## Description of Project
 
